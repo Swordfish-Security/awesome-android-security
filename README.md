@@ -71,7 +71,7 @@
 - [Conbeerlib is an Android library for detecting if an app is running inside a virtual container.](https://github.com/su-vikas/conbeerlib)
 - [Secured Proto DataStore](https://github.com/Fi5t/secured-datastore)
 
-## Vulnerable Mobile apps:
+## Уязвимые приложения
 * [Allsafe](https://github.com/t0thkr1s/allsafe) 
 * [InsecureShop](https://github.com/hax0rgb/InsecureShop)
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
@@ -108,7 +108,7 @@
 * [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 * [DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp/)
 
-## CTF / Лабы
+## CTF
 - [r2-pay](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part1/re.pwnme.1.0.apk)
 	- [Walkthrow](r2-pay: anti-debug, anti-root & anti-frida (part 1))
 - [Android App RE](https://maddiestone.github.io/AndroidAppRE/index.html)
@@ -175,7 +175,7 @@
 * [ECHO - Ethical hacker Order](https://play.google.com/store/apps/details?id=com.ellize.hackerguide)
 * [hpAndro Vulnerable Application Challenges](http://ctf.hpandro.raviramesh.info/)
 
-## CTF Writeups
+## Прохождение CTF
 
 - Solving CTF with Frida
 	- [Part 1](https://cmrodriguez.me/blog/hpandro-1/)
@@ -299,7 +299,7 @@
 * [Atast CTF 2012 Bin 300](http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
 
-## Видео (вебинары/митапы/выступления/обзоры)
+## Видео
 - [Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://youtu.be/U6qTcpCfuFc)
 - [Android App Reverse Engineering Workshop](https://www.youtube.com/playlist?list=PL3jdfxUyXxoyG6qEkaTMq0iWaaVps2SLa)
 - [Android Code Deobfuscation](https://youtube.com/watch?v=lmHkfKXuN4A)
