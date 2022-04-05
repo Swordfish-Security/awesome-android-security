@@ -1,4 +1,6 @@
-# Android
+# Android Security Awesome
+
+В данном репозитории собранны материалы по безопасности Android-приложений, различные статьи, исследования, инструменты анализа и полезные библиотеки/инструменты для обеспечения безопасности приложений. Большая часть этого материала приходит из телеграм канала [Mobile AppSec World](https://t.me/mobile_appsec_world) и его подписчиков. Репозиторий регулярно обновляется и пополняется новыми материалами.
 
 ## Инструменты анализа
 * [Pithus](https://beta.pithus.org/) ([github](https://github.com/Pithus/bazaar)) - free and open-source platform to analyze Android applications
