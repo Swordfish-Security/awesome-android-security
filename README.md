@@ -360,15 +360,20 @@
 	* [Brida Github](https://github.com/federicodotta/Brida)
 * [The Worst Mobile Apps](https://www.youtube.com/watch?v=9JuBUpRPLRs)
 * [Learn modding Unity apps and games with Frida](https://www.youtube.com/watch?v=KeWcZ-Dd6tA)
+* [Forging Golden Hammer Against Android App Protections by Georges-Bastien Michel](https://www.youtube.com/watch?v=BiMU2CalCqU)
+	* [Репозиторий с кодом и слайдами](https://github.com/FrenchYeti/unrasp)
 
 
 ## Подкасты
+### Ru
 * [Community Podcast #1: Павел Васильев | Bluethooth, NFC и Диффи-Хэллман под эллиптическими кривыми](https://podcasts.apple.com/us/podcast/community-podcast-1-%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2-bluethooth-nfc-%D0%B8/id1552280775?i=1000507755864)
 * [Community Podcast #2: Сергей Тошин | Bug Bounty, Oversecured и жопочасы](https://podcasts.apple.com/us/podcast/community-podcast-2-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%82%D0%BE%D1%88%D0%B8%D0%BD-bug-bounty-oversecured/id1552280775?i=1000513089218)
 * [Травим баги DAST-ом — Эпизод #3](https://podcasts.apple.com/us/podcast/%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D0%BC-%D0%B1%D0%B0%D0%B3%D0%B8-dast-%D0%BE%D0%BC-%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4-3/id1552280775?i=1000527141196)
 * [Мобильный SSDLC](https://youtu.be/EGB8mstJlyA)
 * [Пентест мобильных приложений](https://podlodka.io/85)
 
+### En
+* [THE SECRETIVE ANDROID SAFETYNET](https://android-bytes-by-esper.captivate.fm/episode/ep11-safetynet-cat-and-mouse)
 
 ## Статьи
 ### Ru
@@ -519,3 +524,5 @@ Hijacking in Android](https://www.usenix.org/system/files/conference/usenixsecur
 * [How to use Ghidra to Reverse Engineer Mobile Application](https://infosecwriteups.com/how-to-use-ghidra-to-reverse-engineer-mobile-application-c2c89dc5b9aa)
 * [React Native Application Static Analysis](https://suam.wtf/posts/react-native-application-static-analysis-en/)
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
+* [2 click Remote Code execution in Evernote Android](https://hackerone.com/reports/1377748)
+* [Android 13 deep dive: Every change up to DP2, thoroughly documented](https://blog.esper.io/android-13-deep-dive/)
