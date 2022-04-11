@@ -52,6 +52,7 @@
 
 ### Динамический анализ
 
+* [Stingray](https://stingray-mobile.ru/)
 * [Adhrit - Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks](https://github.com/abhi-r3v0/Adhrit)
 * [Android Hooker - Opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
 * [AppAudit - Online tool ( including an API) uses dynamic and static analysis](http://appaudit.io/)
@@ -73,7 +74,6 @@
 ### Онлайн анализаторы
 
 * [Android APK Decompiler](http://www.decompileandroid.com/)
-* [AndroTotal](http://andrototal.org/)
 * [Ostor Lab](https://www.ostorlab.co/scan/mobile/)
 * [Quixxi](https://quixxisecurity.com/)
 * [Visual Threat](http://www.visualthreat.com/UIupload.action)
