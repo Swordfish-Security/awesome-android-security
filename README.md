@@ -50,7 +50,7 @@
 * [Lief](https://github.com/lief-project/LIEF)
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
 
-### Dynamic Analysis
+### Динамический анализ
 
 * [Adhrit - Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks](https://github.com/abhi-r3v0/Adhrit)
 * [Android Hooker - Opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
@@ -70,7 +70,7 @@
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
         
-### Android Online APK Analyzers
+### Онлайн анализаторы
 
 * [Android APK Decompiler](http://www.decompileandroid.com/)
 * [AndroTotal](http://andrototal.org/)
@@ -405,7 +405,7 @@
 * [Beginning Frida: Learning Frida use on Linux and (just a bit on) Wintel and Android systems with Python and JavaScript (Frida. hooking, and other tools)](https://www.amazon.com/Beginning-Frida-Learning-Android-JavaScript/dp/B094ZQ1HHC)
 
 
-#### Other
+#### Другие
 * [Подборка дисклозов с HackerOne](https://threader.app/thread/1129680329994907648)
 * [Подробнейшая инструкция по настройке рабочего окружения](https://blog.cobalt.io/getting-started-with-android-application-security-6f20b76d795b)
 * [Android Security Workshop](https://valsamaras.medium.com/android-security-workshop-5eadeb50fba)
