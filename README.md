@@ -1,8 +1,12 @@
 # Android Security Awesome
 
+![Awesome-Andr](https://user-images.githubusercontent.com/54852618/163048028-5a7ce66e-d7ee-48e9-b3b9-948317bcc69f.png)
+
 В данном репозитории собранны материалы по безопасности Android-приложений, различные статьи, исследования, инструменты анализа и полезные библиотеки/инструменты для обеспечения безопасности приложений. Большая часть этого материала приходит из телеграм канала [Mobile AppSec World](https://t.me/mobile_appsec_world) и его подписчиков. Репозиторий регулярно обновляется и пополняется новыми материалами.
 
 ## Инструменты анализа
+* [Frida](https://frida.re/)
+* [Objection](https://github.com/sensepost/objection)
 * [Pithus](https://beta.pithus.org/) ([github](https://github.com/Pithus/bazaar)) - free and open-source platform to analyze Android applications
 * [CuckooDroid 2.0 - Automated Android Malware Analysis](https://github.com/idanr1986/cuckoodroid-2.0)
 * [QARK - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
