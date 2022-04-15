@@ -50,9 +50,10 @@
 * [AFL - american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
 * [Setup for i0S and Android Application Analysis](https://m2sup3rn0va.github.io/SiAAA/) - This is a cheatsheet to install tools required for i0S and Android application pentesting
 * [AES Killer (Burpsuite Plugin)](https://github.com/Ebryx/AES-Killer)
-* [ReFlutter](https://github.com/ptswarm/reFlutter)
+* [ReFlutter](https://github.com/Impact-I/reFlutter)
 * [Lief](https://github.com/lief-project/LIEF)
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
+* [Jeb2Frida](https://github.com/Hamz-a/jeb4frida)
 
 ### Динамический анализ
 
@@ -521,3 +522,5 @@ Hijacking in Android](https://www.usenix.org/system/files/conference/usenixsecur
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
 * [2 click Remote Code execution in Evernote Android](https://hackerone.com/reports/1377748)
 * [Android 13 deep dive: Every change up to DP2, thoroughly documented](https://blog.esper.io/android-13-deep-dive/)
+* [When Equal is Not, Another WebView Takeover Story](https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202)
+* [Bypassing SSL pinning on Android Flutter Apps with Ghidra](https://raphaeldenipotti.medium.com/bypassing-ssl-pinning-on-android-flutter-apps-with-ghidra-77b6e86b9476)
