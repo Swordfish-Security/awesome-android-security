@@ -381,6 +381,7 @@
 * [Подменяем Runtime permissions в Android](https://medium.com/mobileup/%D0%BF%D0%BE%D0%B4%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D0%BC-runtime-permissions-%D0%B2-android-17c58bad954f)
 * [Как root-права и альтернативные прошивки делают ваш android смартфон уязвимым](https://habr.com/ru/post/541190/)
 * [Drozer, эмулятор и эльфийские костыли](https://telegra.ph/Drozer-ehmulyator-i-ehlfijskie-kostyli-08-20)
+* [Держи свой трафик в тайне. SSL Pinning — ещё раз о том же самом](https://habr.com/ru/company/swordfish_security/blog/661093/)
 
 ### En
 #### Frida
@@ -524,3 +525,9 @@ Hijacking in Android](https://www.usenix.org/system/files/conference/usenixsecur
 * [Android 13 deep dive: Every change up to DP2, thoroughly documented](https://blog.esper.io/android-13-deep-dive/)
 * [When Equal is Not, Another WebView Takeover Story](https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202)
 * [Bypassing SSL pinning on Android Flutter Apps with Ghidra](https://raphaeldenipotti.medium.com/bypassing-ssl-pinning-on-android-flutter-apps-with-ghidra-77b6e86b9476)
+* [WhatsApp Bug Bounty: Bypassing biometric authentication using voip](https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba)
+* [Intercepting Android Emulator SSL traffic with burp using magisk](https://infosecwriteups.com/intercepting-android-emulator-ssl-traffic-with-burp-using-magisk-bc948dca68f9)
+* [How Android updates work: A peek behind the curtains from an insider](https://medium.com/@Za_Raczke/how-android-updates-work-a-peek-behind-the-curtains-from-an-insider-1d8e1a48ec0b)
+* [Obfuscated obfuscation. Analysing application under DexGuard](https://blog.lexfo.fr/dexguard.html)
+* [Decrypting "Secret Calculator Photo Vault"](https://theincidentalchewtoy.wordpress.com/2022/01/27/decrypting-secret-calculator-photo-vault/)
+* [Facebook BugBounty Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups)
